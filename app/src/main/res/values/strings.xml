@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Fauna</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tiger">Амурский тигр</string>
+    <string name="leopard">Леопард</string>
+    <string name="white_bear">Белый медведь</string>
+    <string name="b_bear">Бурый медведь</string>
+    <string name="whale">Кит</string>
+    <string name="musk_deer">Кабарга</string>
+    <string name="amur_goral">Амурский горал</string>
+    <string name="duck">Утка Мандаринка</string>
+    <string name="harza">Харза</string>
+    <string name="crane">Журавль</string>
+    <string name="stork">Аист</string>
+    <string name="owl">Филин</string>
+    <string name="sea_lion">Сивуч</string>
+
+    <string name="animal_avatar">animal avatar</string>
+
+    <string name="population">Численность</string>
+    <string name="area">Ареал</string>
+    <string name="type_of_food">Вид питания</string>
+    <string name="classification">Классификация</string>
+
+    <string name="predator">Хищник</string>
+    <string name="herbivore">Травоядный</string>
+    <string name="all_eat">Всеядное</string>
+
+    <string name="tiger_population">более 600 особей</string>
+    <string name="tiger_areal">Дальний Восток России, Китай, Северная Корея</string>
+    <string name="tiger_classification">
+        Класс: Млекопитающие \n
+        Род: Пантеры \n
+        Вид: Тигр
+    </string>
+
+    <string name="leopard_population">110 взрослых дальневосточных леопардов</string>
+    <string name="leopard_areal">Россия, Китай, Корейский полуостров</string>
+    <string name="leopard_classification">
+        Класс: Млекопитающие \n
+        Род: Пантеры \n
+        Вид: Леопард
+    </string>
+
+    <string name="white_bear_population">20 000—25 000 особей</string>
+    <string name="white_bear_areal">Самая большая популяция обитает на Чукотке</string>
+    <string name="white_bear_classification">
+        Класс: Млекопитающие \n
+        Род: Медведи \n
+        Вид: Белый медведь
+    </string>
+
+    <string name="b_bear_population">около 200 000 бурых медведей</string>
+    <string name="b_bear_areal">Европа, Африка, Россия, Китай, Япония,</string>
+    <string name="b_bear_classification">
+        Класс: Млекопитающие \n
+        Род: Медведи \n
+        Вид: Бурый медведь
+    </string>
+
+    <string name="whale_population">50 000 косаток</string>
+    <string name="whale_areal">В России обитает у Курильской гряды и у Командорских островов.</string>
+    <string name="whale_classification">
+        Класс: Млекопитающие \n
+        Род: Косатки \n
+        Вид: Косатка
+    </string>
+
+    <string name="musk_deer_population">В России составляет 120—125 тысяч</string>
+    <string name="musk_deer_areal">Восточная Сибирь, Приморский край, Сахалин</string>
+    <string name="musk_deer_classification">
+        Класс: Млекопитающие \n
+        Род: Кабарги \n
+        Вид: Кабарга
+    </string>
+
+    <string name="amur_goral_population">В Приморском крае насчитывается всего около 700–900</string>
+    <string name="amur_goral_areal">Россия, Китай, Корейский полуостров</string>
+    <string name="amur_goral_classification">
+        Класс: Млекопитающие \n
+        Род: Горалы \n
+        Вид: Горал
+    </string>
+
+    <string name="duck_population">Мировая популяция составляет 65000 уток</string>
+    <string name="duck_areal">Россия, Китай, Япония</string>
+    <string name="duck_classification">
+        Класс: Птицы \n
+        Род: Лесные утки \n
+        Вид: Мандаринка
+    </string>
+
+    <string name="harza_population">Точная популяция харзы неизвестна</string>
+    <string name="harza_areal"> Индия, Непал, Мьянме, Пакистан, Афганистан, Китай, Россия</string>
+    <string name="harza_classification">
+        Класс: Млекопитающие \n
+        Род: Куницы \n
+        Вид: Харза
+    </string>
+
+    <string name="crane_population">Численность якутской (восточной) достигает 3000 особей.</string>
+    <string name="crane_areal">Европа, Россия, Африка</string>
+    <string name="crane_classification">
+        Класс: Птицы \n
+        Род: Журавли \n
+        Вид: Журавль
+    </string>
+
+    <string name="stork_population">Некоторые виды попали в Красную книгу</string>
+    <string name="stork_areal">Евразия</string>
+    <string name="stork_classification">
+        Класс: Птицы \n
+        Род: Аистовые \n
+        Вид: Белый аист
+    </string>
+
+    <string name="owl_population">Реальная численность отдельных подвидов в России неизвестна</string>
+    <string name="owl_areal">Евразия, Африка</string>
+    <string name="owl_classification">
+        Класс: Птицы \n
+        Род: Филины \n
+        Вид: Филин
+    </string>
+
+    <string name="sea_lion_population">На Командорских островах обитает примерно 700 животных </string>
+    <string name="sea_lion_areal">Охотское море, Камчатка, Сахалин, Командорские острова</string>
+    <string name="sea_lion_classification">
+        Класс: Млекопитающие \n
+        Род: Сивучи \n
+        Вид: Сивуч
+    </string>
+
+</resources>
